@@ -1,8 +1,7 @@
 # FMI Coursework
 
-Various work from my time at The Faculty of Mathematics and Computer Science, University of Bucharest.
+Various work from my time at The Faculty of Mathematics and Computer Science, University of Bucharest, all in one repo.
 
-Relevant map for this repo:
 * programming techniques, data structures, algorithms
     - various problems from InfoArena
     - implementation of fibonacci heap

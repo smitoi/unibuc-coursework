@@ -1,0 +1,11 @@
+nume_restaurant,nume_categorie,nume_produs,preț
+Restaurant 1,Sucuri,Coca Cola,7
+Restaurant 1,Sucuri,Fanta,6
+Restaurant 1,Sucuri,7Up,6
+Restaurant 1,Feluri principale,Sushi,13
+Restaurant 1,Feluri principale,Fructe de mare,15
+Restaurant 2,Sucuri,Pepsi,8
+Restaurant 2,Sucuri,Fanta,5
+Restaurant 2,Sucuri,Sprite,5
+Restaurant 2,Mese principale,Pizza,18
+Restaurant 2,Mese principale,Friptură,23

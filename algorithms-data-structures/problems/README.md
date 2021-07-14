@@ -1,5 +1,5 @@
-#### Implementarea următorilor algoritmi de sortare (sortari.py):
-* Pentru un număr maxim de elemente (vor afișa 'ERROR' dacă șirul le depășește limitele):
+### Implementarea următorilor algoritmi de sortare (sortari.py):
+* Pentru un număr maxim de elemente:
   * Bubble Sort (max. 5000)
   * Insertion Sort (max. 7000)
   * Selection Sort (max. 7000)
