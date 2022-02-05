@@ -1,6 +1,6 @@
 # FMI Coursework
 
-Various work from my time at The Faculty of Mathematics and Computer Science, University of Bucharest, all in one repo.
+Some of the work from my time at The Faculty of Mathematics and Computer Science, University of Bucharest.
 
 * programming techniques, data structures, algorithms
     - various problems from InfoArena
@@ -11,20 +11,14 @@ Various work from my time at The Faculty of Mathematics and Computer Science, Un
     - a small CLI application made in Java
     - collection of exercises in Haskell
 * databases, web applications development
-    - e-shopping website with ASP.net
     - database project made in Oracle SQL
     - backend for a reddit clone using NodeJS and GraphQL
 * operating systems, computer networks, system security
-    - basic shell written in C
     - reliable TCP
     - ARP spoofing & TCP hijacking
 * artificial intelligence, reinforcement learning
-    - fox and hounds game
-    - used machine learning to classify brain tumours
-    - reinforcement learning algorithms for trading cryptocurrencies
+    - fox and geese game
+    - machine learning to classify brain tumours
 * video games design, 3D modelling and printing
     - a 3D shooter made using Unity
     - various 3D modelling work
-
-
-Group projects are marked as such in their respective readme, and should not be treated as my sole work.

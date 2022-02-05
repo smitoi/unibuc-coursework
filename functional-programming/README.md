@@ -1,0 +1,1 @@
+# Teme pentru laboratoarele de Programare Funcțională și Fundamentele Limbajelor de Programare

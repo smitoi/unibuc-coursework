@@ -1,0 +1,1 @@
+# Plăci suprapuse - A*

@@ -1,0 +1,76 @@
+Start time: Wed Apr 28 18:25:42 2021
+ffff*gg*
+..jjii.k
+lll.mmmn
+['ffff*gg*', '..jjii.k', 'lll.mmmn']
+Plaque: ['row = 0 ', 'column = 0 ', 'letter = f ', 'length = 4 ']
+Ball: ['row = 0 ', 'column = 4 ']
+Plaque: ['row = 0 ', 'column = 5 ', 'letter = g ', 'length = 2 ']
+Ball: ['row = 0 ', 'column = 7 ']
+Plaque: ['row = 1 ', 'column = 2 ', 'letter = j ', 'length = 2 ']
+Plaque: ['row = 1 ', 'column = 4 ', 'letter = i ', 'length = 2 ']
+Plaque: ['row = 1 ', 'column = 7 ', 'letter = k ', 'length = 1 ']
+Plaque: ['row = 2 ', 'column = 0 ', 'letter = l ', 'length = 3 ']
+Plaque: ['row = 2 ', 'column = 4 ', 'letter = m ', 'length = 3 ']
+Plaque: ['row = 2 ', 'column = 7 ', 'letter = n ', 'length = 1 ']
+Am găsit soluția 1: Wed Apr 28 18:25:43 2021
+Prima mutare: 
+0)
+ffff*gg*
+..jjii.k
+lll.mmmn
+Cost mutare: 0
+
+1)
+ffff.gg*
+..jj*iik
+lll.mmmn
+Cost mutare: 1
+
+2)
+ffff.gg*
+.jj.*iik
+lll.mmmn
+Cost mutare: 3
+
+3)
+ffff.gg*
+.jj.ii.k
+lll.mmmn
+Cost mutare: 1
+
+4)
+ffff.gg.
+.jj.iik*
+lll.mmmn
+Cost mutare: 1
+
+5)
+ffff.gg.
+.jjii.k*
+lll.mmmn
+Cost mutare: 3
+
+6)
+ffff.gg.
+.jjiik.*
+lll.mmmn
+Cost mutare: 2
+
+7)
+ffff.gg.
+.jjiik.*
+lllmmm.n
+Cost mutare: 4
+
+8)
+ffff.gg.
+.jjiik..
+lllmmmn.
+Cost mutare: 1
+
+Costul total a fost 16
+Stop time: Wed Apr 28 18:25:43 2021
+Statistici:
+Am calculat în total 522 noduri.
+Numărul maxim de noduri din memorie a fost 230.
