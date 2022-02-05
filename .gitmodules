@@ -1,0 +1,6 @@
+[submodule "reddit-endpoint"]
+	path = Reddit-endpoint
+	url = git@github.com:smitoi/Reddit-endpoint.git
+[submodule "unity-project"]
+	path = UnityProject--Uni
+	url = git@github.com:smitoi/UnityProject--Uni.git
